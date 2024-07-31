@@ -1,0 +1,69 @@
+body{
+    margin: 120px;
+    text-align: center;
+    background: #1B244A;
+
+
+
+}
+.score {
+    background: #0a0001;
+    font-size: 110px;
+    color: #F94F6D;
+    width: 140px;
+    margin: 20px;
+padding-top: 20px;
+
+    font-family: 'Cursed Timer ULiL';
+    
+
+    
+}
+.scoreboard{
+    display: flex;
+    justify-content: space-around;
+}
+button{
+    font-family: 'Cursed Timer ULiL';
+
+
+}
+button{
+    
+    width: 35px;
+height: 35px;
+top: 271px;
+left: 67px;
+gap: 0px;
+border-radius: 5px ;
+opacity: 0px;
+color: #b3bbd1;
+background-color: #1B244A;
+border: 2px solid #b3bbd1
+
+
+
+
+}
+@font-face {
+    font-family: 'Cursed Timer ULiL';
+    src: url("C:\Users\aksha\Desktop\poi\Cursed Timer ULiL.ttf") format('truetype');
+}
+.home{
+    color: beige;
+    font-family: Verdana;
+font-size: 40px;
+font-weight: 700;
+line-height: 35.89px;
+text-align: center;
+
+    
+}
+.guest{
+    color: beige;
+    font-family: Verdana;
+font-size: 40px;
+font-weight: 700;
+line-height: 35.89px;
+text-align: center;
+}
